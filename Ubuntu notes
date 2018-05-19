@@ -1,0 +1,5 @@
+To upgrade on a desktop system:
+Press Alt+F2 and type update-manager -c into the command box.
+Update Manager should open up and tell you that Ubuntu 18.04 LTS is now available.
+If not you can run /usr/lib/ubuntu-release-upgrader/check-new-release-gtk.
+Click Upgrade and follow the on-screen instructions.
